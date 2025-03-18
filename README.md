@@ -10,7 +10,7 @@
 
 ✅ Data Cleaning & Exploratory Data Analysis
 
--I am actively seeking opportunities where I can combine my risk management expertise with data analytics to solve business challenges and drive strategic insights. Let’s connect and discuss how data can transform decision-making!
+I am actively seeking opportunities where I can combine my risk management expertise with data analytics to solve business challenges and drive strategic insights. Let’s connect and discuss how data can transform decision-making!
 <!---
 Esther-Chidinma/Esther-Chidinma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
